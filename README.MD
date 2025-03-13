@@ -2,6 +2,9 @@
 
 El Zen de Python en español.
 
+## Código fuente
+Puedes ver el código fuente en [Pastebin](https://pastebin.com/mRFcjsxc).
+
 ## Instalación
 
 ```bash
